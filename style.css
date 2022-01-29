@@ -1,0 +1,21 @@
+h1.mod {
+	font-family: Serif;
+	color: burlywood;
+	text-align: center;
+}
+
+.mod2 {
+	text-align: center;	
+}
+
+#mod3 {
+	background-color: chartreuse;
+	color: chocolate;
+	font-size: 50px;
+}
+
+#mod4 {
+	background-color: crimson;
+	color: cyan;
+	font-size: 30px;
+}
